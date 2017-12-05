@@ -1,0 +1,6 @@
+source: 64151
+Sent from: 64151	vehicle type: 1
+source: 64153
+Sent from: 64152	vehicle type: 3
+source: 64152
+Sent from: 64158	vehicle type: 2
